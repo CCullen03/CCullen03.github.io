@@ -1,10 +1,11 @@
 # Personal Portfolio 
 > A (Branch of a) clean, beautiful, responsive portfolio template for Software Developers!
-> https://CCullen03.github.io
+https://CCullen03.github.io
 
 Credit to Varad Bhogayata
 
 ## Activity 1: Picture of Repo
+![Description](filename.png)
 
 ## Installation & Deployment 
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
