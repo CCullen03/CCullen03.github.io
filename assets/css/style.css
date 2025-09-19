@@ -16,7 +16,7 @@
 }
 
 .profile-pic img {
-  width: 100%;
+  width: 130%;
   height: auto;
 }
 
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #ad1818 repeat;
   position: relative;
 }
 
