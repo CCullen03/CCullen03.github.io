@@ -11,6 +11,10 @@ Credit to Varad Bhogayata
 ![Updated Website](assets/img/activity2site.png)
 ![Picture of the REPO](assets/img/activity2repo.png)
 
+## Activity 2: Picture of the Theme Change
+![Updated Website](assets/img/activity3site.png)
+![Picture of the REPO](assets/img/activity3repo.png)
+
 ## Installation & Deployment 
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
 - Add or remove images from `varadbhogayata.github.io/assets/img/` directory as per your requirement.
