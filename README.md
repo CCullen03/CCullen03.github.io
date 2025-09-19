@@ -11,7 +11,7 @@ Credit to Varad Bhogayata
 ![Updated Website](assets/img/activity2site.png)
 ![Picture of the REPO](assets/img/activity2repo.png)
 
-## Activity 2: Picture of the Theme Change
+## Activity 3: Picture of the Theme Change
 ![Updated Website](assets/img/activity3site.png)
 ![Picture of the REPO](assets/img/activity3repo.png)
 
