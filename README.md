@@ -5,7 +5,7 @@ https://CCullen03.github.io
 Credit to Varad Bhogayata
 
 ## Activity 1: Picture of Repo
-![Description](activity1.png)
+![Alt text]](activity1.png)
 
 ## Installation & Deployment 
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
