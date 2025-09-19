@@ -854,34 +854,38 @@ of each drug container to estimate the degradation of the drug.
     </section>
   </main>
 
-  <!-- typed.js -->
-  <script src="assets/vendor/typed.js/typed.min.js"></script>
-  <script type="text/javascript">
-    var typed = new Typed('.typing',{
-      strings: ["Pythonist", "Developer", "Fast Learner"],
-      loop: true,
-      typeSpeed: 80,
-      backSpeed: 40
-    });
-  </script>
-
-
-  <!-- jQuery-->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <!-- jQuery - Load first -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 
   <!-- Materialize - Compiled and minified JavaScript-->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/js/materialize.min.js"></script>
-  <script>
-    // Materialize - Initializers
-    $(document).ready(function () {
-      $(".scrollspy").scrollSpy()
+
+  <!-- Typed.js from CDN -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
+  
+  <script type="text/javascript">
+    // Wait for document to be ready
+    $(document).ready(function() {
+      // Initialize Materialize components
+      $(".scrollspy").scrollSpy();
+      
       // Initialize collapse button
       $(".button-collapse").sideNav({
         menuWidth: 190, // Default is 240
         edge: "left", // Choose the horizontal origin
         closeOnClick: true // Closes side-nav on <a> clicks, useful for Angular/Meteor
-      })
-    })
+      });
+
+      // Initialize Typed.js after DOM is ready
+      if (typeof Typed !== 'undefined') {
+        var typed = new Typed('.typing', {
+          strings: ["Pythonist", "Developer", "Fast Learner","Goo Goo Muck"],
+          loop: true,
+          typeSpeed: 80,
+          backSpeed: 40
+        });
+      }
+    });
   </script>
 </body>
 
