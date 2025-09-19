@@ -1,9 +1,8 @@
 # Personal Portfolio ⚡️ 
 > A (Branch of a) clean, beautiful, responsive portfolio template for Software Developers!
-
 > https://CCullen03.github.io
 
-> Credit to Varad Bhogayata
+Credit to Varad Bhogayata
 
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
